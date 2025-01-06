@@ -1,0 +1,5 @@
+{"sdk_key":"cd8d29f11a12b639c61adf4d9cb29cc4",
+"api_url":"https://monofee1227.g.kuroco.app",
+"management_url":"https://monofee1227.g.kuroco-mng.app",
+"gcp":{"firebaseConfig":null},
+"api_config":{"security":"cookie","ip_whitelist":[]}}
