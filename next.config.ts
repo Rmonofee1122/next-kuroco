@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   reactStrictMode: true,
   // 2025/01/06 中西 
   // 以下の部分を削除(https://kuroco.app/ja/quick-guide/#next-deploy-config)
-  output: 'export',
+  // output: 'export',
 };
 
 export default nextConfig;
